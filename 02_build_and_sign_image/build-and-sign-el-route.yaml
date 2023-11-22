@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: el-build-and-sign
 spec:
-  host: el-build-and-sign.apps.open-svc-sts.k1wl.p1.openshiftapps.com
+  host: el-build-and-sign.apps.ocp4.whatever.out-of-my-head.de
   port:
     targetPort: http-listener
   to:
